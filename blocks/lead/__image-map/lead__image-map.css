@@ -1,0 +1,27 @@
+.lead__image-map {
+    grid-row: 3/4;
+    grid-column: 1/2;
+    align-self: center;
+    justify-self: center;
+    margin-top: 28px;
+    width: 95%;
+}
+
+@media screen and (min-width: 768px) {
+    .lead__image-map {
+        width: 95%;
+        margin-top: 68px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lead__image-map {
+        margin-top: 88px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image-map {
+        margin-top: 92px;
+    }
+}
