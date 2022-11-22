@@ -21,13 +21,11 @@
 @media screen and (min-width: 1024px) {
     .place__text {
         max-width: 456px;
-        ;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .place__text {
         max-width: 484px;
-        ;
     }
 }
