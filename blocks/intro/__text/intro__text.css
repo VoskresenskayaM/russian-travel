@@ -7,8 +7,6 @@
 
 @media screen and (min-width: 768px) {
     .intro__text {
-        font-weight: 400;
-        font-size: 16px;
         line-height: 161%;
         margin: 40px 0 0 0;
     }

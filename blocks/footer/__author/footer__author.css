@@ -1,8 +1,8 @@
 .footer__author {
-  font-weight: 400px;
+  font-weight: 400;
   font-size: 14px;
   line-height: 14px;
-  margin: 45px 0 0 0;
+  margin: 48px 0 0 0;
 }
 
 .footer__author::before {
@@ -11,7 +11,6 @@
 
 @media screen and (min-width: 768px) {
   .footer__author {
-    font-weight: 400px;
     font-size: 14px;
     line-height: 16px;
     margin: 0;

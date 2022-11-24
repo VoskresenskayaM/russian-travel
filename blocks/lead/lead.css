@@ -1,9 +1,8 @@
 .lead {
-    max-width: 894px;
     margin: auto;
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(5, min-content);
+    grid-template-rows: auto;
     width: 100%;
 }
 

@@ -19,7 +19,6 @@
 
 @media screen and (min-width: 1024px) {
     .place__paragraph {
-        font-weight: 400;
         font-size: 18px;
         line-height: 161%;
     }

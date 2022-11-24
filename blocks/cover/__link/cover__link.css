@@ -1,7 +1,14 @@
 .cover__link {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     text-decoration: none;
-    margin: 0 auto;
+    color: #FFF;
+}
+
+.cover__link::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
 }
