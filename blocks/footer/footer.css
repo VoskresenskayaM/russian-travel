@@ -11,22 +11,22 @@
         flex-direction: row;
         padding: 88px 24px 24px 24px;
         margin: 0 auto;
-        max-width: calc(768px - 48px);
+        max-width: 768px;
         box-sizing: border-box;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .footer {
-        padding: 92px 0 24px 0;
-        max-width: calc(1024px - 96px);
+        padding: 92px 48px 24px 48px;
+        max-width: 1024px;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .footer {
-        /*padding: 92px 0 24px 0;*/
        max-width: 1184px;
+       padding: 92px 0 24px 0;
     }
 }
 
