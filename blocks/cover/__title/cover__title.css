@@ -10,7 +10,6 @@
     text-align: center;
     max-width: 220px;
     z-index: 3;
-    display: block;
 }
 
 @media screen and (min-width: 425px) {

@@ -17,3 +17,9 @@
         text-underline-offset: 5px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .place__link-name {
+        margin-top: 8px;
+    }
+}
