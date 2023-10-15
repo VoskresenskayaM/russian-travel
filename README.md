@@ -19,5 +19,5 @@
 5. https://voskresenskayam.github.io/russian-travel/
 
 ## Инструкция по установке
-Клонировать репозиторий git clone https://github.com/Sonyamaster1/russian-travel.git
+Клонировать репозиторий git clone https://github.com/VoskresenskayaM/russian-travel.git
 Запустить с помощью liveServer
